@@ -16,7 +16,7 @@ Here are some additional resources if you are looking to explore LightGBM more e
 
 LightGBM is a relatively new GBM framework. If you are looking to learn more about GBMs in general, here are some additional resources about XGBoost, which has more extensive documentation and is configured very similarly to LightGBM:
 
-1. [xgbRegressor](../XGBRegressor/xgbRegressor) is a general purpose script for model training using XGBoost
+1. [XGBRegressor](https://github.com/albertkklam/XGBRegressor) is a general purpose script for model training using XGBoost
 2. [Introduction to Boosted Trees and the XGBoost algorithm](http://xgboost.readthedocs.io/en/latest/model.html)
 3. [The Python API documentation for XGBoost](http://xgboost.readthedocs.io/en/latest/python/python_api.html)
 4. [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
