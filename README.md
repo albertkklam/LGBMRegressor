@@ -13,3 +13,11 @@ Here are some additional resources if you are looking to explore LightGBM more e
 7. [Fair loss](https://www.kaggle.com/c/allstate-claims-severity/discussion/24520)
 8. [Poisson regression](https://en.wikipedia.org/wiki/Poisson_regression)
 9. [Discounted cumulative gain](https://en.wikipedia.org/wiki/Discounted_cumulative_gain#Normalized_DCG)
+
+LightGBM is a relatively new GBM framework. If you are looking to learn more about GBMs in general, here are some additional resources about XGBoost, which has more extensive documentation and is configured very similarly to LightGBM:
+
+1. [xgbRegressor](../XGBRegressor/xgbRegressor) is a general purpose script for model training using XGBoost
+2. [Introduction to Boosted Trees and the XGBoost algorithm](http://xgboost.readthedocs.io/en/latest/model.html)
+3. [The Python API documentation for XGBoost](http://xgboost.readthedocs.io/en/latest/python/python_api.html)
+4. [Complete Guide to Parameter Tuning in XGBoost](https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/)
+5. [Tong He's XGBoost presentation](https://www.slideshare.net/ShangxuanZhang/xgboost)
