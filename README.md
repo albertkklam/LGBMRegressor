@@ -1,4 +1,4 @@
-# LightGBM
+# LGBMRegressor
 ## Overview
 
 ## Resources
