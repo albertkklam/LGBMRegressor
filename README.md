@@ -1,15 +1,18 @@
 # LGBMRegressor
 ## Overview
 
+## Installing LightGBM for Python
+Follow instructions [here](https://github.com/Microsoft/LightGBM/tree/master/python-package)
+
 ## Resources
 Here are some additional resources if you are looking to explore LightGBM more extensively:
 
 1. [LightGBM Features](https://github.com/Microsoft/LightGBM/wiki/Features)
 2. [LightGBM's Python API](https://github.com/Microsoft/LightGBM/blob/master/docs/Python-API.md)
-3. [Optimisation in network communication](http://wwwi10.lrr.in.tum.de/~gerndt/home/Teaching/HPCSeminar/mpich_multi_coll.pdf)
-4. [Voting parallel learning](http://papers.nips.cc/paper/6381-a-communication-efficient-parallel-algorithm-for-decision-tree)
-5. [DART: Dropouts meet Multiple Additive Regression Trees](https://arxiv.org/pdf/1505.01866.pdf)
-6. [Parameter configuration](https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters.md)
+3. [LightGBM's complete parameter specification](https://github.com/Microsoft/LightGBM/blob/master/docs/Parameters.md)
+4. [DART: Dropouts meet Multiple Additive Regression Trees](https://arxiv.org/pdf/1505.01866.pdf)
+5. [Optimisation in network communication](http://wwwi10.lrr.in.tum.de/~gerndt/home/Teaching/HPCSeminar/mpich_multi_coll.pdf)
+6. [Voting parallel learning](http://papers.nips.cc/paper/6381-a-communication-efficient-parallel-algorithm-for-decision-tree)
 7. [Fair loss](https://www.kaggle.com/c/allstate-claims-severity/discussion/24520)
 8. [Poisson regression](https://en.wikipedia.org/wiki/Poisson_regression)
 9. [Discounted cumulative gain](https://en.wikipedia.org/wiki/Discounted_cumulative_gain#Normalized_DCG)
