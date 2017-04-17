@@ -2,7 +2,7 @@
 ## Overview
 A simple implementation to regression problems using Python 2.7 and LightGBM. [LGBMRegressor](https://github.com/albertkklam/LGBMRegressor/blob/master/LGBMRegressor.ipynb) is a general purpose script for model training using LightGBM. It contains:
 
-* Functions to preprocess a data file into the necessary train and test set Datasets for LightGBM
+* Functions to preprocess a data file into the necessary train and test Datasets for LightGBM
 * Functions to convert categorical variables into dense vectors
 * Additional user functionality that allows notification updates to be sent to a user's chosen Slack channel, so that you know when your model has finished training
 * Implementation of the DART algorithm
