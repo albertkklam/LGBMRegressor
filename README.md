@@ -1,6 +1,6 @@
 # LGBMRegressor
 ## Overview
-A simple implementation to regression problems using Python 2.7 and LightGBM. LGBMRegressor is a general purpose script for model training using LightGBM. It contains:
+A simple implementation to regression problems using Python 2.7 and LightGBM. [LGBMRegressor](https://github.com/albertkklam/LGBMRegressor/blob/master/LGBMRegressor.ipynb) is a general purpose script for model training using LightGBM. It contains:
 
 * Functions to preprocess a data file into the necessary train and test set Datasets for LightGBM
 * Functions to convert categorical variables into dense vectors
